@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Urutkan_unf-icon css-1w4dubj</name>
+   <tag></tag>
+   <elementGuidId>f347baa6-e2b7-4a71-9eaf-fb555d487a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.unf-icon.css-1w4dubj</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan:'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>0f4c8ee9-f271-4def-936f-c92a1115542c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-icon css-1w4dubj</value>
+      <webElementGuid>1320c1d6-b403-4930-86d0-4ae7a7f5bb62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>c02ebddf-4108-446e-825c-d04f8b5f6df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>91a1371e-9a65-46dd-998e-c8acd5c7a992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>d103f445-fc1c-4f95-b5af-7d43f7bcbb59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>var(--color-icon-enabled, #2E3137)</value>
+      <webElementGuid>5a704114-45e7-4316-bc57-a772482a80c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[@class=&quot;css-k1aaub&quot;]/div[@class=&quot;css-16hrxnz&quot;]/div[@class=&quot;css-1ro2jof e83okfj0&quot;]/button[@class=&quot;css-1g467vj e83okfj1&quot;]/svg[@class=&quot;unf-icon css-1w4dubj&quot;]</value>
+      <webElementGuid>928f2010-c151-4dc5-b7b1-990ec64a726a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>e6fab815-9654-463b-9a74-a3bca0db74e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-icon css-1w4dubj</value>
+      <webElementGuid>f4177c43-876a-4145-bace-da2e80d779ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>43bdd70f-fbc2-4765-9e17-4d67e2bb2982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>a1cb9484-b620-43ed-961c-717222f38777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>620dde0c-236d-48b9-a5e0-9c637cd4c131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>var(--color-icon-enabled, #2E3137)</value>
+      <webElementGuid>151335bc-2cc3-414c-9b14-ebbdf3e7d1d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[@class=&quot;css-k1aaub&quot;]/div[@class=&quot;css-16hrxnz&quot;]/div[@class=&quot;css-1ro2jof e83okfj0&quot;]/button[@class=&quot;css-1g467vj e83okfj1&quot;]/svg[@class=&quot;unf-icon css-1w4dubj&quot;]</value>
+      <webElementGuid>a10f8c7b-18b9-49f0-99fb-67c54f404578</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan:'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d87a72cc-80e1-4082-b42c-7b8791726d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', '&quot;', 'iphone 14 pro', '&quot;', '')])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>57b1b149-06b7-43e6-a565-e70bf216c46e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dipromosikan oleh'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f5c16b2b-a692-4f0d-a342-ddc80702b612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Official Store'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>7413e402-18e3-4cb1-8475-0dee1e7bf86b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Minimum'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>4ecb8b88-9c27-4fe3-98c9-5a18be66c336</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

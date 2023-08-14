@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Automation to test search and filters  functionality</description>
+   <name>TC 01 - Search Results and Filters</name>
+   <tag>search, filter</tag>
+   <comment></comment>
+   <testCaseGuid>5db4969a-8a89-439b-a8f8-4630a219ce0a</testCaseGuid>
+</TestCaseEntity>

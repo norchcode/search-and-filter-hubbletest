@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Harga Terendah</name>
+   <tag></tag>
+   <elementGuidId>8e48428d-a682-4504-9052-b555ee8e0263</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::p[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fcabade2-52ab-4f92-85b3-3b117060cf4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>81230cbb-aa14-43df-a81a-8475cc3f807e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-3tkidh-unf-heading e1qvo2ff8</value>
+      <webElementGuid>67741f1a-90fc-4b07-84c2-8c6503a9d888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga Terendah</value>
+      <webElementGuid>dd2fb5b6-7a90-4694-8f37-99ba4d50e852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;css-1syw465 e17suhym1&quot;]/div[@class=&quot;css-19os3da e83okfj4&quot;]/ul[@class=&quot;css-rxgulu&quot;]/li[@class=&quot;css-d2qf6r e83okfj5&quot;]/button[@class=&quot;css-nzq9o0&quot;]/div[@class=&quot;css-18biwo&quot;]/div[1]/p[@class=&quot;css-3tkidh-unf-heading e1qvo2ff8&quot;]</value>
+      <webElementGuid>0ee90e3c-bd2b-4924-bf9b-bb76113c9bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>84ba2b3f-2b53-4e70-abc6-09915c1c51f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>bc09fd46-b696-4c13-b901-8e6e4a2a97f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-3tkidh-unf-heading e1qvo2ff8</value>
+      <webElementGuid>b388ad6b-e292-4a2b-b39d-63dcccb38cca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga Terendah</value>
+      <webElementGuid>211fe723-186f-49ad-9286-16b6f06122f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;css-17wpeez e17suhym1&quot;]/div[@class=&quot;css-19os3da e83okfj4&quot;]/ul[@class=&quot;css-rxgulu&quot;]/li[@class=&quot;css-d2qf6r e83okfj5&quot;]/button[@class=&quot;css-nzq9o0&quot;]/div[@class=&quot;css-18biwo&quot;]/div[1]/p[@class=&quot;css-3tkidh-unf-heading e1qvo2ff8&quot;]</value>
+      <webElementGuid>c12080ff-6dd1-462b-9cd0-2f566d834bd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7edef30f-561d-4b94-b887-f827c9db1293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>0de0c03e-caf5-4e60-b72d-62e5226bbc50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-3tkidh-unf-heading e1qvo2ff8</value>
+      <webElementGuid>b87ddc1a-8ea5-488d-85ee-9a4045493232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga Terendah</value>
+      <webElementGuid>b37ea751-97d8-45ae-a28b-a85572d11f12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[7]/div[@class=&quot;css-1ncldoz e17suhym1&quot;]/div[@class=&quot;css-19os3da e83okfj4&quot;]/ul[@class=&quot;css-rxgulu&quot;]/li[@class=&quot;css-d2qf6r e83okfj5&quot;]/button[@class=&quot;css-nzq9o0&quot;]/div[@class=&quot;css-18biwo&quot;]/div[1]/p[@class=&quot;css-3tkidh-unf-heading e1qvo2ff8&quot;]</value>
+      <webElementGuid>0e2b4d92-31e0-4a09-bc03-aed40b5e4865</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::p[5]</value>
+      <webElementGuid>b2e5472a-9a97-4f7f-a45a-a96c2ee0371b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::p[5]</value>
+      <webElementGuid>1d546880-88f4-451e-bd77-b2292c33c7bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Harga Terendah']/parent::*</value>
+      <webElementGuid>b4e22d33-3c47-40bb-9ff6-45693e2e2abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/button/div/div/p</value>
+      <webElementGuid>23ce768e-764c-40b7-b777-bdd1cae7f1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Harga Terendah' or . = 'Harga Terendah')]</value>
+      <webElementGuid>be9bb8f5-c92f-44f5-b91d-cfbe69db1cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjual 250+'])[10]/following::p[5]</value>
+      <webElementGuid>4b9801fe-17a0-4316-bac3-3d87248d5227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allforgadget'])[1]/following::p[5]</value>
+      <webElementGuid>6f49f455-e910-44dd-86c3-023e8c43f029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjual 14'])[1]/following::p[5]</value>
+      <webElementGuid>9f6ba846-c3ae-4074-8a88-dd7500205437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Devil Store Official'])[6]/following::p[5]</value>
+      <webElementGuid>258c5581-fb53-451d-b04b-c9d0e705defb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

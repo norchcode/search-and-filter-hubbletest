@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Jenis toko</name>
+   <tag></tag>
+   <elementGuidId>aa6d40b3-7a4e-4889-9a19-aa4d07596a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div/div/div/div/div/div[2]/button/h6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>b709521c-1524-4500-a0b0-fe83290b842b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>7f9aed00-fc34-4f47-855f-efcb251ea507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-to1kuw-unf-heading e1qvo2ff6</value>
+      <webElementGuid>70a4e373-4b1f-4909-8e67-c5cb969e4fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jenis toko</value>
+      <webElementGuid>2c9dce6f-94b3-4ab5-8e20-38b366e850e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-gfb3wv&quot;]/div[@class=&quot;css-18nstr8&quot;]/div[1]/div[@class=&quot;css-khi8sg&quot;]/div[1]/div[@class=&quot;css-1ghv7i5&quot;]/button[@class=&quot;css-9bjn9j&quot;]/h6[@class=&quot;css-to1kuw-unf-heading e1qvo2ff6&quot;]</value>
+      <webElementGuid>781f709f-3fc1-4009-86f3-016ff7ad0cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>29b9b6ae-884c-4d1f-b163-299d3378f282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>38097823-e0c3-4d29-ba89-022f45b5a439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-to1kuw-unf-heading e1qvo2ff6</value>
+      <webElementGuid>74f59cec-b109-4046-91c2-cf2785cb19a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jenis toko</value>
+      <webElementGuid>801437f9-4b06-490a-8e60-937be5b12be2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-gfb3wv&quot;]/div[@class=&quot;css-18nstr8&quot;]/div[1]/div[@class=&quot;css-khi8sg&quot;]/div[1]/div[@class=&quot;css-1ghv7i5&quot;]/button[@class=&quot;css-9bjn9j&quot;]/h6[@class=&quot;css-to1kuw-unf-heading e1qvo2ff6&quot;]</value>
+      <webElementGuid>d92603fb-137a-4f2c-8b7e-00d2ac4303a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div/div/div/div/div/div[2]/button/h6</value>
+      <webElementGuid>eb25d8c7-45c4-4301-ac04-80b674887c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handphone'])[1]/following::h6[1]</value>
+      <webElementGuid>067cbb65-8035-43cb-88db-0d37f1ef9505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksesoris Handphone'])[1]/following::h6[1]</value>
+      <webElementGuid>d4d71da7-1883-4b18-a556-fcbff354b283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Official Store'])[1]/preceding::h6[1]</value>
+      <webElementGuid>f279c61b-ceff-4f6e-85a8-4f021687b7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Power Merchant Pro'])[1]/preceding::h6[1]</value>
+      <webElementGuid>8a3a4170-a825-4de4-899d-61ed85a5308b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jenis toko']/parent::*</value>
+      <webElementGuid>dd5e14dd-4988-48cd-a28c-5dbcf61ff816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/h6</value>
+      <webElementGuid>15eeee44-9ffa-496a-b043-696c15529d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Jenis toko' or . = 'Jenis toko')]</value>
+      <webElementGuid>6e8bf2b5-a6aa-4ac1-88b8-14ecb8949261</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

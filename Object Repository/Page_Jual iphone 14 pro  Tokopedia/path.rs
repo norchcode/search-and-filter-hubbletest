@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>86e29d8b-8f0c-4deb-b501-1c26d0ccf608</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > button.css-16uzo3v-unf-pagination-item > svg.unf-icon > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[@class=&quot;css-gvoll6&quot;]/nav[@class=&quot;css-txlndr-unf-pagination&quot;]/ul[@class=&quot;css-1ni9y5x-unf-pagination-items&quot;]/li[5]/button[@class=&quot;css-16uzo3v-unf-pagination-item&quot;]/svg[@class=&quot;unf-icon&quot;]/path[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>7217d9db-155c-4d4f-817f-0a29748a7ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M9.5 17.75a.75.75 0 01-.5-1.28L13.44 12 9 7.53a.75.75 0 011-1.06l5 5a.75.75 0 010 1.06l-5 5a.74.74 0 01-.5.22z</value>
+      <webElementGuid>914d411a-eb23-4be5-9fac-ee01b3b30fa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[@class=&quot;css-gvoll6&quot;]/nav[@class=&quot;css-txlndr-unf-pagination&quot;]/ul[@class=&quot;css-1ni9y5x-unf-pagination-items&quot;]/li[5]/button[@class=&quot;css-16uzo3v-unf-pagination-item&quot;]/svg[@class=&quot;unf-icon&quot;]/path[1]</value>
+      <webElementGuid>01a04d86-ebca-42e7-91d3-2c386856c937</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

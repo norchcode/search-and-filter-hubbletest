@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RpRpRp11.6 jt - Rp16.3 jtRp16.3 jt - Rp17.5 jtRp17.5 jt - Rp18.8 jt</name>
+   <tag></tag>
+   <elementGuidId>504c8c31-5607-44b0-99fe-208f2a301229</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div/div/div/div/div/div[4]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da7218fc-5bfa-4300-989a-db49020e1f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1cb34wj</value>
+      <webElementGuid>6c6679ad-7465-4820-abd7-0e8baa901ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>RpRpRp11.6 jt - Rp16.3 jtRp16.3 jt - Rp17.5 jtRp17.5 jt - Rp18.8 jt</value>
+      <webElementGuid>9245f7c3-a873-4ca5-a9d7-aab41e3f5e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-gfb3wv&quot;]/div[@class=&quot;css-18nstr8&quot;]/div[1]/div[@class=&quot;css-khi8sg&quot;]/div[1]/div[@class=&quot;css-1ghv7i5&quot;]/div[@class=&quot;css-1m93f3h&quot;]/div[1]/div[@class=&quot;css-1cb34wj&quot;]</value>
+      <webElementGuid>24e01a98-5eed-4de0-be94-854bb8ac4d87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div/div/div/div/div/div[4]/div/div/div</value>
+      <webElementGuid>db59c914-38ef-4cde-8643-8eaf97d882b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga'])[1]/following::div[3]</value>
+      <webElementGuid>a830c9a2-af6a-44e4-a9f1-6fba8fee65b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat selengkapnya'])[1]/following::div[4]</value>
+      <webElementGuid>786bca5c-714e-488d-a1bd-912731577f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[4]/div/div/div</value>
+      <webElementGuid>7b7f5696-0dca-4315-9163-1b7e3bb7a2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'RpRpRp11.6 jt - Rp16.3 jtRp16.3 jt - Rp17.5 jtRp17.5 jt - Rp18.8 jt' or . = 'RpRpRp11.6 jt - Rp16.3 jtRp16.3 jt - Rp17.5 jtRp17.5 jt - Rp18.8 jt')]</value>
+      <webElementGuid>dfd2072a-a56b-49c7-8c50-f729d7e6d766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
